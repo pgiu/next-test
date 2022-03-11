@@ -14,7 +14,7 @@ export default function Home({allPostsData}) {
             <section className={utilStyles.headingMd}>
                 <p>Bienvenidos a mi página</p>
                 <p>
-                    Estoy probando Vercel a ver como se porta!
+                    Bienvenidos
                 </p>
             </section>
             <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
